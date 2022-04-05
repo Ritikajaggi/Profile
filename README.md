@@ -51,7 +51,7 @@ Seeking a good position to share my knowledge for the growth of the organization
 
 
 
-* **FDP on Universal Human Values** by MVN UNIVERSITY from 23 May to 25 May 2019 [Certificate](link)
+* **FDP on Universal Human Values** by MVN UNIVERSITY from 23 May to 25 May 2019 ![Certificate](
 * One Day workshop on** NAAC Accreditation processes** by MVN UNIVERSITY on 23 Jan 2021.
 * Online Training in **COVID-19 “KNOW COVID – NO COVID”** Held on 19 and 20 August, 2021 orgainsed by Public health Foundation of India.
 * Webinar on **Role of Clinical Microbiology in Patient care & Basics of Medical Microbiology** held on 21 Jan 2022
@@ -62,7 +62,7 @@ Seeking a good position to share my knowledge for the growth of the organization
 
 
 
-* **Impact of Sanitizer on Normal Human Microflora: A Review on Effect of Frequent Use of Sanitizer on Normal Human Microflora **Published in International Journal for Research in Applied Science & Engineering Technology.
+**Impact of Sanitizer on Normal Human Microflora: A Review on Effect of Frequent Use of Sanitizer on Normal Human Microflora** Published in International Journal for Research in Applied Science & Engineering Technology.
 
 **<span style="text-decoration:underline;">TECHNICAL SKILLS</span>**
 
@@ -79,11 +79,9 @@ Seeking a good position to share my knowledge for the growth of the organization
 Husband’s name 	: - Mr. Abhishek Raj 
 Date of birth 	: - 24.11.1989 
 Marital status 	: - Married 
-Sex 			      : - Female 
-
-
-    Nationality		: -		Indian \
-Expected salary	: - 		As per Industry. \
+Sex 		    : - Female 
+Nationality		: -	Indian 
+Expected salary	: - As per Industry. 
 
 
 **<span style="text-decoration:underline;">DISCLAIMER</span>**
